@@ -11,6 +11,9 @@
   <a href="https://github.com/joyghoshs/0install">
     <img src="https://img.shields.io/static/v1?label=Project&message=Git-CVE&color=yellow">
   </a>
+  <a href="https://github.com/PyCQA/bandit">
+    <img src="https://img.shields.io/badge/security-bandit-yellow.svg">
+  </a>
   <a href="https://twitter.com/0xjoyghosh">
       <img src="https://img.shields.io/twitter/follow/0xjoyghosh?style=social">
   </a>
